@@ -1,7 +1,6 @@
 +++
 date = '2025-09-12T12:58:04+08:00'
-
-draft = true
+draft = false
 title = '我的軍中雜談第一章'
 +++
 

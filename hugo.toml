@@ -1,0 +1,5 @@
+baseURL = 'https://yorkcho.github.io/'
+languageCode = 'en-us'
+title = 'York網路隨筆'
+ 
+theme = 'ananke'

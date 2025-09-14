@@ -1,0 +1,12 @@
+[submodule "doks"]
+	path = doks
+	url = https://github.com/thuliteio/doks.git
+[submodule "themes/doks"]
+	path = themes/doks
+	url = https://github.com/thuliteio/doks.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "theme/doks"]
+	path = theme/doks
+	url = https://github.com/thuliteio/doks.git

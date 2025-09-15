@@ -1,5 +1,9 @@
 baseURL = 'https://yorkcho.github.io/'
-languageCode = 'en-us'
+languageCode = 'zh-tw'
 title = 'York網路隨筆'
  
 theme = 'ananke'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
